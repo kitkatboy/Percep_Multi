@@ -2,7 +2,7 @@
 
 <h6>libraries dependencies:</h6>
 
-if cmake don't resolve OpenCV libraries dependencies, download it on ubunut repo
+if cmake don't resolve OpenCV libraries dependencies, download it on ubuntu repo
 
   sudo apt-get install libopencv-dev
   
