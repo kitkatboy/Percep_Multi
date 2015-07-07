@@ -1,11 +1,10 @@
 # Percep_Multi
 
-<h6>libraries dependencies:</h6>
+<h6>OpenCV dependencies:</h6>
 
-if cmake don't resolve OpenCV libraries dependencies, download it on ubuntu repo
+if cmake doesn't find package, download it on ubuntu repositories:
 
-  sudo apt-get install libopencv-dev
-  
+sudo apt-get install libopencv-dev
 
 <h6>To run:</h6>
 
